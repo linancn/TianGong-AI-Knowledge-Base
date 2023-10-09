@@ -80,5 +80,7 @@ docker run --detach \
     --env VIRTUAL_PORT=8501 \
     --env LETSENCRYPT_HOST=YourURL \
     --env LETSENCRYPT_EMAIL=YourEmail \
-    linancn/tiangong-ai-kb:0.0.1
+    linancn/tiangong-ai-kb:v0.0.1
+
+docker cp secrets_kb.toml tiangong-ai-kb:/app/.streamlit/secrets.toml
 ```

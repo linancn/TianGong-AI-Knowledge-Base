@@ -15,3 +15,5 @@ Dockerfile
 README.md
 
 .streamlit/secrets.toml
+
+.github
