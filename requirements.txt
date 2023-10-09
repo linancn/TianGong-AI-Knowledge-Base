@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+
+black
+pdfplumber
+pyzotero
+streamlit

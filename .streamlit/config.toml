@@ -1,0 +1,8 @@
+[theme]
+primaryColor="#82318E"
+
+[browser]
+gatherUsageStats = false
+
+[global]
+dataFrameSerialization = "arrow"
